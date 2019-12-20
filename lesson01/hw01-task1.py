@@ -7,24 +7,18 @@ if choice == 1:
     print("Выбран вариант", choice)
     income = int(input("Введите сумму дохода: "))
     delays = int(input("Введите количество опозданий: "))
-    number_of_lines = (income + delays * 20) / 50 * 100
-    print("Количество строк:", str(number_of_lines))
+    number_of_lines = round((income + delays * 20) / 50 * 100, 0)
+    print("Number of lines: ", str(number_of_lines))
 elif choice == 2:
     print("Выбран вариант", choice)
     number_of_lines = int(input("Введите число строк кода: "))
-    income = int(input("Введите сумму желаемого дохода: "))
-    delays = (number_of_lines * 0.5 - income) // 20
-    if delays > 0:
-        print("Количество возможных опозданий:", str(delays))
-    else:
-        print("Опаздывать нельзя!")
-        
+    income = int(input("Введите сумму дохода: "))
+    delays = (income - number_of_lines * 0.5) / 20
 elif choice == 3:
     print("Выбран вариант", choice)
     number_of_lines = int(input("Введите число строк кода: "))
     delays = int(input("Введите количество опозданий: "))
-    income = number_of_lines * 0.5 - delays * 20
-    print("Сумма дохода:", str(income))
+    income = number_of_lines * 0,5 - delays * 20
 else:
     print("Вариант не выбран. Выход из программы.")
     
