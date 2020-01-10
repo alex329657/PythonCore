@@ -35,28 +35,28 @@ Yesterday we bumped into Laura. It had to happen, but you can\'t deny the timing
 """
 from sys import stdin
     
+#str = input("Введите строку: ")
 print("Введите текст. Для завершения ввода нажмите Ctrl+D:")
 str = stdin.read()      
-
 firstdot = str.find(".")
-
 code = str[:firstdot]
-
+print(code)
 text = str[firstdot+1:]
-
+print(text)
 code_word_list = [s for s in code.split()]
-
+print(code_word_list)
 codes = [len(c) for c in code_word_list]
-
+print(codes)
 sentences_list = [s for s in text.split(".")]
-
+print("sentences_list=",sentences_list)
 result = []
-
 for i in range(len(codes)):
     words_list = [s for s in sentences_list[i].split()]
+    print("sentences_list[i]=", sentences_list[i])
+    print("codes[i]=", codes[i])
     keyword = words_list[codes[i]-1]
+    print("keyword=", keyword)
     result.append(keyword)
-    
 print(result.capitalize())
 print(("".join(result).capitalize()))
 
