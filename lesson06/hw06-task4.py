@@ -7,3 +7,23 @@ Task 4:
   существующей покупке, а не добавлять новую.
   3. Покупка продукта. Функция принимает название продукта и отмечает его как купленный.
 """
+shoppinglist = {}
+print("Введите через пробел название продукта и необходимое количество:")
+while True:
+  new_record = [s for s in input().split()]
+  print(new_record)
+  new_key = new_record[0]
+  if shoppinglist.get(new_key) == None:
+    print(shoppinglist)
+    shoppinglist[new_key] = [int(new_record[1]), False]
+  else:
+    shoppinglist[new_key] = [shoppinglist[new_key][0] + int(new_record[1]), shoppinglist[new_key][1]] 
+  print(shoppinglist)
+  s = input("Continue?")
+  if s == str(1):
+    continue
+  elif s == str(2):
+    shoppinglist[new_key] = [shoppinglist[new_key][0], True]
+  else:
+    break
+    
