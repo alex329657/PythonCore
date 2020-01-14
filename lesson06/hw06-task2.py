@@ -12,3 +12,10 @@ nextVersion("9.9") === "10.0";
 Rules
 All numbers, except the first one, must be lower than 10: if there are, you have to set them to 0 and increment the next number in sequence.
 """
+str1 = input('Введите строку в формате "nextVersion("x.x.x")", где x - число 0-9: ')
+ver = int(str1[13:-2].replace(".","")) + 1
+print(str(ver))
+i = str(ver)
+print(".".join(i))
+if str1.index(".") >= 2:
+    print(str(i[0]+(".".join(i[1:]))
