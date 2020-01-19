@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="973fd8e2-24dc-44be-a462-41f9b802f65f" name="Default Changelist" comment="upd">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PythonCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/hw07-task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/hw07-task2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WRmqtsdW5o1lGq8f1gyUCghu8L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="hw07-task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson07/hw07-task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hw07-task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="973fd8e2-24dc-44be-a462-41f9b802f65f" name="Default Changelist" comment="" />
+      <created>1579120975726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579120975726</updated>
+      <workItem from="1579120977281" duration="778000" />
+      <workItem from="1579159724544" duration="10156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579458753451">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579458753451" />
+    <state x="571" y="128" width="770" height="796" key="CommitChangelistDialog2" timestamp="1579121080567">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="571" y="128" width="770" height="796" key="CommitChangelistDialog2/0.0.1920.1055@0.0.1920.1055" timestamp="1579121080567" />
+    <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl" timestamp="1579458875925">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1042@0.0.1920.1042" timestamp="1579458875925" />
+    <state width="1872" height="341" key="GridCell.Tab.0.bottom" timestamp="1579476333341">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333341" />
+    <state width="1872" height="341" key="GridCell.Tab.0.center" timestamp="1579476333339">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.0.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333339" />
+    <state width="1872" height="341" key="GridCell.Tab.0.left" timestamp="1579476333338">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.0.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333338" />
+    <state width="1872" height="341" key="GridCell.Tab.0.right" timestamp="1579476333340">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.0.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333340" />
+    <state width="1872" height="341" key="GridCell.Tab.1.bottom" timestamp="1579476333345">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333345" />
+    <state width="1872" height="341" key="GridCell.Tab.1.center" timestamp="1579476333343">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.1.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333343" />
+    <state width="1872" height="341" key="GridCell.Tab.1.left" timestamp="1579476333342">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.1.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333342" />
+    <state width="1872" height="341" key="GridCell.Tab.1.right" timestamp="1579476333344">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state width="1872" height="341" key="GridCell.Tab.1.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333344" />
+    <state x="464" y="157" key="SettingsEditor" timestamp="1579458887628">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="464" y="157" key="SettingsEditor/0.0.1920.1042@0.0.1920.1042" timestamp="1579458887628" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1579475239810">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1042@0.0.1920.1042" timestamp="1579475239810" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson07/hw07-task1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonCore$hw07_task1.coverage" NAME="hw07-task1 Coverage Results" MODIFIED="1579476333278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
+  </component>
+</project>
