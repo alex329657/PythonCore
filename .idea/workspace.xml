@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="973fd8e2-24dc-44be-a462-41f9b802f65f" name="Default Changelist" comment="">
+    <list default="true" id="973fd8e2-24dc-44be-a462-41f9b802f65f" name="Default Changelist" comment="task 1 compnleted">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/hw07-task2_temp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson07/hw07-task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson07/hw07-task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PythonCore" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,6 +25,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="AK-83 &lt;alex329657@gmail.com&gt;" />
         <option value="Alex329657 &lt;alex329657@gmail.com&gt;" />
       </list>
     </option>
@@ -35,10 +42,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson07" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hw07-task2">
     <configuration name="hw07-task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCore" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,8 +73,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw07-task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson07/hw07-task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw07-task2" />
         <item itemvalue="Python.hw07-task1" />
       </list>
     </recent_temporary>
@@ -90,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579120975726</updated>
       <workItem from="1579120977281" duration="778000" />
-      <workItem from="1579159724544" duration="10450000" />
+      <workItem from="1579159724544" duration="19486000" />
     </task>
     <task id="LOCAL-00001" summary="task 1 completed">
       <created>1579476388872</created>
@@ -113,75 +148,113 @@
       <option name="project" value="LOCAL" />
       <updated>1579476598497</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task 1 completed">
+      <created>1579476684675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579476684675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task 1 compnleted">
+      <created>1579476900018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579476900018</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upd" />
     <MESSAGE value="task 1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1 completed" />
+    <MESSAGE value="task 1 compnleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 compnleted" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579458753451">
+    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579536620700">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579458753451" />
-    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2" timestamp="1579476791423">
+    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579536620700" />
+    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2" timestamp="1579477099333">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2/0.0.1920.1042@0.0.1920.1042" timestamp="1579476791423" />
+    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2/0.0.1920.1042@0.0.1920.1042" timestamp="1579477099333" />
     <state x="571" y="128" width="770" height="796" key="CommitChangelistDialog2/0.0.1920.1055@0.0.1920.1055" timestamp="1579121080567" />
+    <state x="100" y="101" width="1720" height="842" key="DiffContextDialog" timestamp="1579477198746">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="100" y="101" width="1720" height="842" key="DiffContextDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579477198746" />
     <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl" timestamp="1579458875925">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
     <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1042@0.0.1920.1042" timestamp="1579458875925" />
-    <state width="1872" height="276" key="GridCell.Tab.0.bottom" timestamp="1579476603534">
+    <state width="1872" height="276" key="GridCell.Tab.0.bottom" timestamp="1579561403484">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579476603534" />
-    <state width="1872" height="276" key="GridCell.Tab.0.center" timestamp="1579476603526">
+    <state width="1872" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403484" />
+    <state width="1872" height="276" key="GridCell.Tab.0.center" timestamp="1579561403481">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579476603526" />
-    <state width="1872" height="276" key="GridCell.Tab.0.left" timestamp="1579476603518">
+    <state width="1872" height="276" key="GridCell.Tab.0.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403481" />
+    <state width="1872" height="276" key="GridCell.Tab.0.left" timestamp="1579561403480">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579476603518" />
-    <state width="1872" height="276" key="GridCell.Tab.0.right" timestamp="1579476603530">
+    <state width="1872" height="276" key="GridCell.Tab.0.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403480" />
+    <state width="1872" height="276" key="GridCell.Tab.0.right" timestamp="1579561403483">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579476603530" />
-    <state width="1872" height="341" key="GridCell.Tab.1.bottom" timestamp="1579476333345">
+    <state width="1872" height="276" key="GridCell.Tab.0.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403483" />
+    <state width="1872" height="341" key="GridCell.Tab.1.bottom" timestamp="1579539447274">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333345" />
-    <state width="1872" height="341" key="GridCell.Tab.1.center" timestamp="1579476333343">
+    <state width="1872" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447274" />
+    <state width="1872" height="341" key="GridCell.Tab.1.center" timestamp="1579539447271">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333343" />
-    <state width="1872" height="341" key="GridCell.Tab.1.left" timestamp="1579476333342">
+    <state width="1872" height="341" key="GridCell.Tab.1.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447271" />
+    <state width="1872" height="341" key="GridCell.Tab.1.left" timestamp="1579539447270">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333342" />
-    <state width="1872" height="341" key="GridCell.Tab.1.right" timestamp="1579476333344">
+    <state width="1872" height="341" key="GridCell.Tab.1.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447270" />
+    <state width="1872" height="341" key="GridCell.Tab.1.right" timestamp="1579539447272">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579476333344" />
+    <state width="1872" height="341" key="GridCell.Tab.1.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447272" />
     <state x="464" y="157" key="SettingsEditor" timestamp="1579458887628">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
     <state x="464" y="157" key="SettingsEditor/0.0.1920.1042@0.0.1920.1042" timestamp="1579458887628" />
+    <state x="555" y="258" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1579562662755">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="555" y="258" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1042@0.0.1920.1042" timestamp="1579562662755" />
+    <state x="743" y="259" width="425" height="521" key="VcsDiffUtil.ChangesDialog" timestamp="1579477068242">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="743" y="259" width="425" height="521" key="VcsDiffUtil.ChangesDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579477068242" />
     <state x="765" y="442" width="390" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579476689935">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
     <state x="765" y="442" width="390" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1042@0.0.1920.1042" timestamp="1579476689935" />
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1579475239810">
+    <state x="728" y="316" width="464" height="407" key="git4idea.merge.GitMergeDialog" timestamp="1579477040594">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1042@0.0.1920.1042" timestamp="1579475239810" />
+    <state x="728" y="316" width="464" height="407" key="git4idea.merge.GitMergeDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579477040594" />
+    <state x="668" y="316" width="576" height="407" key="git4idea.merge.GitPullDialog" timestamp="1579477108231">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="668" y="316" width="576" height="407" key="git4idea.merge.GitPullDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579477108231" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1579537957160">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1042@0.0.1920.1042" timestamp="1579537957160" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -195,6 +268,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonCore$hw07_task1.coverage" NAME="hw07-task1 Coverage Results" MODIFIED="1579476333278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
+    <SUITE FILE_PATH="coverage/PythonCore$hw07_task1.coverage" NAME="hw07-task1 Coverage Results" MODIFIED="1579536598802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
+    <SUITE FILE_PATH="coverage/PythonCore$hw07_task2.coverage" NAME="hw07-task2 Coverage Results" MODIFIED="1579561403446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
   </component>
 </project>
