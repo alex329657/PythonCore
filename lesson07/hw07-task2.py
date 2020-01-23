@@ -30,6 +30,8 @@ def decrypt(message):
             if i == 3:
                 decoded_string += ' '
             else:
+                list1 = list(MORSE_CODE_DICT.keys())
+                list2 = list(MORSE_CODE_DICT.values()).index(morse_letter)
                 decoded_string += list(MORSE_CODE_DICT.keys())[list(MORSE_CODE_DICT.values()).index(morse_letter)]
                 morse_letter = ''
     return decoded_string

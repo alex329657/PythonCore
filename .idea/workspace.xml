@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="973fd8e2-24dc-44be-a462-41f9b802f65f" name="Default Changelist" comment="task 1 compnleted">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson07/hw07-task2_temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson08/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson07/hw07-task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson07/hw07-task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson08/hw08-task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson08/hw08-task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +42,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson08" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson08" />
       <recent name="$PROJECT_DIR$/lesson07" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw07-task2">
+  <component name="RunManager" selected="Python.hw08-task1">
     <configuration name="hw07-task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCore" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,9 +97,60 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw07-task2_temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonCore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson07/hw07-task2_temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hw08-task1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonCore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson08" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson08/hw08-task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.hw08-task1" />
+      <item itemvalue="Python.hw07-task1" />
+      <item itemvalue="Python.hw07-task2" />
+      <item itemvalue="Python.hw07-task2_temp" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.hw07-task2" />
+        <item itemvalue="Python.hw07-task2_temp" />
         <item itemvalue="Python.hw07-task1" />
       </list>
     </recent_temporary>
@@ -125,7 +178,9 @@
       <option name="presentableId" value="Default" />
       <updated>1579120975726</updated>
       <workItem from="1579120977281" duration="778000" />
-      <workItem from="1579159724544" duration="19486000" />
+      <workItem from="1579159724544" duration="20628000" />
+      <workItem from="1579563812138" duration="387000" />
+      <workItem from="1579593493473" duration="6920000" />
     </task>
     <task id="LOCAL-00001" summary="task 1 completed">
       <created>1579476388872</created>
@@ -162,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579476900018</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task 1 compnleted">
+      <created>1579562676332</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579562676334</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,71 +240,83 @@
     <option name="LAST_COMMIT_MESSAGE" value="task 1 compnleted" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579536620700">
+    <state x="418" y="180" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579821291620">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="418" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579536620700" />
-    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2" timestamp="1579477099333">
+    <state x="418" y="180" width="1084" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579821291620" />
+    <state x="676" y="150" width="560" height="739" key="#hw08-task1" timestamp="1579819611745">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2/0.0.1920.1042@0.0.1920.1042" timestamp="1579477099333" />
+    <state x="676" y="150" width="560" height="739" key="#hw08-task1/0.0.1920.1042@0.0.1920.1042" timestamp="1579819611745" />
+    <state x="708" y="379" width="496" height="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579820755444">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="708" y="379" width="496" height="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1042@0.0.1920.1042" timestamp="1579820755444" />
+    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2" timestamp="1579563326044">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="571" y="126" width="770" height="800" key="CommitChangelistDialog2/0.0.1920.1042@0.0.1920.1042" timestamp="1579563326044" />
     <state x="571" y="128" width="770" height="796" key="CommitChangelistDialog2/0.0.1920.1055@0.0.1920.1055" timestamp="1579121080567" />
     <state x="100" y="101" width="1720" height="842" key="DiffContextDialog" timestamp="1579477198746">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
     <state x="100" y="101" width="1720" height="842" key="DiffContextDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579477198746" />
-    <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl" timestamp="1579458875925">
+    <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl" timestamp="1579771783938">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1042@0.0.1920.1042" timestamp="1579458875925" />
-    <state width="1872" height="276" key="GridCell.Tab.0.bottom" timestamp="1579561403484">
+    <state x="738" y="277" width="426" height="479" key="FileChooserDialogImpl/0.0.1920.1042@0.0.1920.1042" timestamp="1579771783938" />
+    <state width="1872" height="276" key="GridCell.Tab.0.bottom" timestamp="1579821755348">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403484" />
-    <state width="1872" height="276" key="GridCell.Tab.0.center" timestamp="1579561403481">
+    <state width="1872" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579821755348" />
+    <state width="1872" height="276" key="GridCell.Tab.0.center" timestamp="1579821755341">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403481" />
-    <state width="1872" height="276" key="GridCell.Tab.0.left" timestamp="1579561403480">
+    <state width="1872" height="276" key="GridCell.Tab.0.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579821755341" />
+    <state width="1872" height="276" key="GridCell.Tab.0.left" timestamp="1579821755339">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403480" />
-    <state width="1872" height="276" key="GridCell.Tab.0.right" timestamp="1579561403483">
+    <state width="1872" height="276" key="GridCell.Tab.0.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579821755339" />
+    <state width="1872" height="276" key="GridCell.Tab.0.right" timestamp="1579821755347">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="276" key="GridCell.Tab.0.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579561403483" />
-    <state width="1872" height="341" key="GridCell.Tab.1.bottom" timestamp="1579539447274">
+    <state width="1872" height="276" key="GridCell.Tab.0.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579821755347" />
+    <state width="1872" height="341" key="GridCell.Tab.1.bottom" timestamp="1579593430190">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447274" />
-    <state width="1872" height="341" key="GridCell.Tab.1.center" timestamp="1579539447271">
+    <state width="1872" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1042@0.0.1920.1042" timestamp="1579593430190" />
+    <state width="1872" height="341" key="GridCell.Tab.1.center" timestamp="1579593430189">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447271" />
-    <state width="1872" height="341" key="GridCell.Tab.1.left" timestamp="1579539447270">
+    <state width="1872" height="341" key="GridCell.Tab.1.center/0.0.1920.1042@0.0.1920.1042" timestamp="1579593430189" />
+    <state width="1872" height="341" key="GridCell.Tab.1.left" timestamp="1579593430188">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447270" />
-    <state width="1872" height="341" key="GridCell.Tab.1.right" timestamp="1579539447272">
+    <state width="1872" height="341" key="GridCell.Tab.1.left/0.0.1920.1042@0.0.1920.1042" timestamp="1579593430188" />
+    <state width="1872" height="341" key="GridCell.Tab.1.right" timestamp="1579593430189">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state width="1872" height="341" key="GridCell.Tab.1.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579539447272" />
+    <state width="1872" height="341" key="GridCell.Tab.1.right/0.0.1920.1042@0.0.1920.1042" timestamp="1579593430189" />
     <state x="464" y="157" key="SettingsEditor" timestamp="1579458887628">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
     <state x="464" y="157" key="SettingsEditor/0.0.1920.1042@0.0.1920.1042" timestamp="1579458887628" />
-    <state x="555" y="258" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1579562662755">
+    <state x="555" y="258" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1579562688286">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="555" y="258" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1042@0.0.1920.1042" timestamp="1579562662755" />
+    <state x="555" y="258" width="802" height="523" key="Vcs.Push.Dialog.v2/0.0.1920.1042@0.0.1920.1042" timestamp="1579562688286" />
     <state x="743" y="259" width="425" height="521" key="VcsDiffUtil.ChangesDialog" timestamp="1579477068242">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
     <state x="743" y="259" width="425" height="521" key="VcsDiffUtil.ChangesDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579477068242" />
-    <state x="765" y="442" width="390" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579476689935">
+    <state x="653" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1579593505833">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
-    <state x="765" y="442" width="390" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1042@0.0.1920.1042" timestamp="1579476689935" />
+    <state x="653" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1042@0.0.1920.1042" timestamp="1579593505833" />
+    <state x="765" y="442" width="382" height="155" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579788317437">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="765" y="442" width="382" height="155" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1042@0.0.1920.1042" timestamp="1579788317437" />
     <state x="728" y="316" width="464" height="407" key="git4idea.merge.GitMergeDialog" timestamp="1579477040594">
       <screen x="0" y="0" width="1920" height="1042" />
     </state>
@@ -260,15 +334,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lesson07/hw07-task1.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/lesson07/hw07-task2.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonCore$hw08_task1.coverage" NAME="hw08-task1 Coverage Results" MODIFIED="1579821481723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson08" />
     <SUITE FILE_PATH="coverage/PythonCore$hw07_task1.coverage" NAME="hw07-task1 Coverage Results" MODIFIED="1579536598802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
-    <SUITE FILE_PATH="coverage/PythonCore$hw07_task2.coverage" NAME="hw07-task2 Coverage Results" MODIFIED="1579561403446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
+    <SUITE FILE_PATH="coverage/PythonCore$hw07_task2.coverage" NAME="hw07-task2 Coverage Results" MODIFIED="1579819572870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
+    <SUITE FILE_PATH="coverage/PythonCore$hw07_task2_temp.coverage" NAME="hw07-task2_temp Coverage Results" MODIFIED="1579563263919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson07" />
   </component>
 </project>
