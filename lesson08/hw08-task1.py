@@ -10,7 +10,11 @@ def main():
         (1, "Укус Питона", "Сваруп Читлор", "Наука и образование", "2017", "Интернет", 600)
     ]
 
-    #writer(header, data, filename, "write")
+    try:
+        csvfile = open(filename)
+    except IOError:
+        print("Database file not found, created new file")
+        writer(header, data, filename, "write")
     print_table(filename)
 
     print("1. Edit record.")
@@ -29,10 +33,10 @@ def main():
     elif option_num == 3:
         exit()
 
+
 def writer(header, data, filename, option):
     with open(filename, "w", newline="") as csvfile:
         if option == "write":
-
             records = csv.writer(csvfile, delimiter='*')
             records.writerow(header)
             for x in data:
