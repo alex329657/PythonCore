@@ -3,52 +3,61 @@ from prettytable import from_csv
 
 
 def main():
-    filename = "imdb_top_4.csv"
-    header = ("Rank", "Rating", "Title")
+    filename = "database.csv"
+    header = ("id", "Название", "Автор", "Жанр", "Год издания", "Издательство", "Цена")
     data = [
-        (1, 9.2, "The Shawshank Redemption(1994)"),
-        (2, 9.2, "The Godfather(1972)"),
-        (3, 9, "The Godfather: Part II(1974)"),
-        (4, 8.9, "Pulp Fiction(1994)")
+        (0, "Дизайн для реального мира", "Виктор Папанек", "Наука и образование", "2017", "Д.Аронов", 400),
+        (1, "Укус Питона", "Сваруп Читлор", "Наука и образование", "2017", "Интернет", 600)
     ]
 
-    writer(header, data, filename, "write")
-    updater(filename)
-    printttable(filename)
+    #writer(header, data, filename, "write")
+    print_table(filename)
 
+    print("1. Edit record.")
+    print("2. Append record.")
+    print("3. Exit.")
+    print()
+    option_num = int(input("Select option: "))
+    if option_num == 1:
+        option = "edit"
+        id = int(input("Input record number: "))
+        col = input("Input column name: ")
+        val = input("Input record value: ")
+        editor(filename, id, col, val)
+    elif option_num == 2:
+        print("Option is temporary unavailable")
+    elif option_num == 3:
+        exit()
 
 def writer(header, data, filename, option):
     with open(filename, "w", newline="") as csvfile:
         if option == "write":
 
-            movies = csv.writer(csvfile)
-            movies.writerow(header)
+            records = csv.writer(csvfile, delimiter='*')
+            records.writerow(header)
             for x in data:
-                movies.writerow(x)
-        elif option == "update":
-            writer = csv.DictWriter(csvfile, fieldnames=header)
+                records.writerow(x)
+        elif option == "edit":
+            writer = csv.DictWriter(csvfile, fieldnames=header, delimiter='*')
             writer.writeheader()
             writer.writerows(data)
         else:
             print("Option is not known")
 
 
-def updater(filename):
-    with open(filename, newline="") as file:
-        readData = [row for row in csv.DictReader(file)]
-        # print(readData)
-        readData[0]['Rating'] = '9.4'
-        # print(readData)
-
+def editor(filename, id, col, val):
+    with open(filename, newline="") as csvfile:
+        readData = [row for row in csv.DictReader(csvfile, delimiter='*')]
+        readData[id][col] = val
     readHeader = readData[0].keys()
-    writer(readHeader, readData, filename, "update")
+    writer(readHeader, readData, filename, "edit")
+    print_table(filename)
 
-
-def printttable(filename):
-    fp = open(filename, "r")
-    pt = from_csv(fp)
-    fp.close()
-    print(pt)
+def print_table(filename):
+    csvfile = open(filename, "r")
+    table = from_csv(csvfile)
+    csvfile.close()
+    print(table)
 
 if __name__ == "__main__":
     main()
